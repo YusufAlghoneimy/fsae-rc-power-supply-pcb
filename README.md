@@ -8,6 +8,10 @@ to power the platform's microcontrollers, FPGA, and sensors. All values on this 
 were simulated and validated in LTspice before being carried into the schematic and PCB
 layout.
 
+<img width="317" height="594" alt="image" src="https://github.com/user-attachments/assets/78c51b22-0703-4046-8b81-6a00a7d4a0c7" />
+<img width="764" height="346" alt="image" src="https://github.com/user-attachments/assets/49f4d9a0-9c0d-40a4-b9c0-a70d80a37c9e" />
+
+
 ## Why This Exists
 
 The platform's compute and sensor electronics cannot run directly from a 2S LiPo
@@ -55,6 +59,12 @@ sampling bursts.
 | BIAS resistor (R3) | 100 kOhm |
 | LDO output capacitor | 1 uF |
 | LDO bypass capacitor | 0.01 uF |
+<img width="969" height="455" alt="image" src="https://github.com/user-attachments/assets/ec352bee-a7a8-411a-b611-46c5f434ce7e" />
+<img width="966" height="476" alt="image" src="https://github.com/user-attachments/assets/39ab36f4-7d4d-4dd4-afc9-f137f457b0b0" />
+<img width="615" height="585" alt="image" src="https://github.com/user-attachments/assets/be8837cd-32db-44e9-9d00-5d79160db640" /> <img width="646" height="612" alt="image" src="https://github.com/user-attachments/assets/e7352fbd-3f21-4ebb-9ed7-5e1d3cb7a1c6" />
+
+
+
 
 ## Current Budget
 
